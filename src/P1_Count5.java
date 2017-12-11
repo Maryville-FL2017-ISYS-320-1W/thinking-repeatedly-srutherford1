@@ -6,8 +6,8 @@
 
 public class P1_Count5 {
     public static void main(String[] args) {
-        for(int i=1; i<=5; i++ ) {
-            System.out.println("Five times " + i + " = " + 5*i );
-        }
+    	for( int i = 1; i <= 3; i++ ) 
+    	    System.out.println( "How many lines" );
+    	    System.out.println( "are printed?" );
     }
 }
